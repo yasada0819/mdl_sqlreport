@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2020110300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Moodle掲示板：掲示板別のアクセス]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[10]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czozNjU6InNlbGVjdCt1LmlkK2FzK3VzZXJfaWQlMEQlMEElMkMrZnJvbV91bml4dGltZSUyOGwudGltZWNyZWF0ZWQlMjkrYXMrdGltZSUwRCUwQSUyQ2wuYWN0aW9uJTBEJTBBJTJDZi5uYW1lK2FzK2ZvcnVtbmFtZSUwRCUwQSUwRCUwQWZyb20rcHJlZml4X2xvZ3N0b3JlX3N0YW5kYXJkX2xvZythcytsJTBEJTBBam9pbitwcmVmaXhfdXNlcithcyt1K29uK3UuaWQrJTNEK2wudXNlcmlkJTBEJTBBam9pbitwcmVmaXhfZm9ydW0rYXMrZitvbitsLm9iamVjdGlkJTNEK2YuaWQlMEQlMEElMEQlMEF3aGVyZSsrbC5jb3Vyc2VpZCslM0QrMyUwRCUwQWFuZCt1LmlkKyUyMSUzRCsyJTBEJTBBYW5kK2wuY29tcG9uZW50K2xpa2UrJTI3bW9kX2ZvcnVtJTI3IjtzOjg6ImNvdXJzZWlkIjtpOjI7czoxMjoic3VibWl0YnV0dG9uIjtzOjYzOiIlRTUlQTQlODklRTYlOUIlQjQlRTMlODIlOTIlRTQlQkYlOUQlRTUlQUQlOTglRTMlODElOTklRTMlODIlOEIiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fXM6MTE6InBlcm1pc3Npb25zIjthOjE6e3M6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjoxOntzOjEzOiJjb25kaXRpb25leHByIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[19]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
