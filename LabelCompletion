@@ -1,0 +1,18 @@
+select 
+u.username
+, c.fullname
+, ccc.completionstate
+, from_unixtime(ccc.timemodified)
+, l.name
+, cm.*
+
+from prefix_course_modules_completion as ccc
+join prefix_course_modules as cm on ccc.coursemoduleid = cm.id
+join prefix_course as c on cm.course = c.id
+join prefix_user as u on ccc.userid = u.id
+join prefix_modules as m on m.id = cm.module
+
+join prefix_label as l on l.id = cm.instance
+
+where c.id = %%COURSEID%%
+and m.name like '%label%'
